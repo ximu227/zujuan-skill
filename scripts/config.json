@@ -1,0 +1,9 @@
+{
+  "port": 8765,
+  "autoXvfb": false,
+  "repo": "https://github.com/ximu227/zujuan-mcp.git",
+  "branch": "main",
+  "env": {
+    "ZUJUAN_CDP_ENDPOINT": "http://127.0.0.1:9222"
+  }
+}
